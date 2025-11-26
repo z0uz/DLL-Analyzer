@@ -47,7 +47,7 @@
 ### **Windows (Recommended)**
 ```cmd
 # Clone the repository
-git clone https://github.com/yourusername/dll-analyzer.git
+git clone https://github.com/z0uz/dll-analyzer.git
 cd dll-analyzer
 
 # Install with development dependencies
@@ -61,7 +61,7 @@ pip install -e .
 ### **Linux/Mac**
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/dll-analyzer.git
+git clone https://github.com/z0uz/dll-analyzer.git
 cd dll-analyzer
 
 # Install dependencies
@@ -454,7 +454,7 @@ for file_path in os.listdir("malware_samples"):
 
 ### **Development Setup**
 ```cmd
-git clone https://github.com/yourusername/dll-analyzer.git
+git clone https://github.com/z0uz/dll-analyzer.git
 cd dll-analyzer
 .\build.bat install-dev
 ```
@@ -825,7 +825,7 @@ This project is provided for educational and legitimate security research purpos
 
 ## ⭐ **Star History**
 
-[![Star History Chart](https://api.star-history.com/svg?repos=yourusername/dll-analyzer&type=Date)](https://star-history.com/#yourusername/dll-analyzer&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=z0uz/dll-analyzer&type=Date)](https://star-history.com/#z0uz/dll-analyzer&Date)
 
 ---
 
